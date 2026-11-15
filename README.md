@@ -9,7 +9,7 @@ In the evenings I build the tools I wish we had.
 **What I've built**
 
 - **[Papirpedagogen.no](https://papirpedagogen.no)** – Kindergartens still run on paper: weekly plans, sleep lists, nappy lists, the staffing-norm sum done by hand. Papirpedagogen makes those sheets in a minute and prints them on A4. No login, and nothing leaves the browser, because it's children's data.
-  *Astro, React, TypeScript, pnpm monorepo, 545 unit tests, Cloudflare Pages.*
+  *Astro, React, TypeScript, pnpm monorepo, 545 unit tests, Cloudflare Pages. Source available on request.*
 
 - **[Samla](https://app.samla.studio)** – Birthdays, dugnad, ski trips: one link where guests RSVP and claim what they'll bring, without creating an account. Live on Google Play since June 2026.
   *Flutter, Riverpod, FastAPI, PostgreSQL on Supabase, transactional email, GDPR export and deletion.*
