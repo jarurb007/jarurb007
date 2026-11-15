@@ -1,21 +1,26 @@
-### Hei, I'm Jarek 👋
+### Hei, I'm Jarek
 
-Pedagogical leader in a Norwegian kindergarten with an MSc in Corporate Finance, four years of helpdesk behind me, and a habit of building the tools I wish existed.
+I've worked in Norwegian kindergartens since 2013, today as a pedagogical leader and the unit's IT coordinator: devices, accounts, first-line support and the digital tools colleagues use every day. That's where I learned how software is actually experienced by people who use it under time pressure.
 
-I design and ship products end to end — from talking to users and sketching the UI to the backend, tests and deployment — using AI as a power tool while taking responsibility for what runs in production.
+Before Norway I did a master's in corporate finance and ran budgets, purchasing and orders for a small company in Poland, where I saw how much time disappears when systems don't talk to each other.
 
-**Projects**
+In the evenings I build the tools I wish we had.
 
-- **[Papirpedagogen.no](https://papirpedagogen.no)** — free planning tools for kindergarten staff (weekly plans, sleep and nappy lists, staffing-norm calculator). Privacy by design: no login, everything stays in the browser. *Astro, React, TypeScript, Vitest, Cloudflare Pages.*
-- **[Samla](https://app.samla.studio)** — a coordination app for birthdays, dugnads and get-togethers with AI-assisted wishes and gift ideas, live on Google Play and at [app.samla.studio](https://app.samla.studio). *Flutter, Python/FastAPI, PostgreSQL, Supabase, GDPR flows.*
-- **Ukesmeny** — an LLM-powered weekly dinner and shopping planner built for my own family. [Live demo](https://mealplan-production-32a7e369.up.railway.app) with pre-recorded AI responses. *Python, FastAPI, Claude, Docker, Railway.*
+**What I've built**
 
-**Interested in:** applied AI (LLM apps, RAG, agents, MCP), AI in education and the public sector, and turning messy real-world processes into simple tools.
+- **[Papirpedagogen.no](https://papirpedagogen.no)** – Kindergartens still run on paper: weekly plans, sleep lists, nappy lists, the staffing-norm sum done by hand. Papirpedagogen makes those sheets in a minute and prints them on A4. No login, and nothing leaves the browser, because it's children's data.
+  *Astro, React, TypeScript, pnpm monorepo, 545 unit tests, Cloudflare Pages.*
 
-**Languages:** Norwegian · English · Polish
+- **[Samla](https://app.samla.studio)** – Birthdays, dugnad, ski trips: one link where guests RSVP and claim what they'll bring, without creating an account. Live on Google Play since June 2026.
+  *Flutter, Riverpod, FastAPI, PostgreSQL on Supabase, transactional email, GDPR export and deletion.*
 
-📍 Aurskog, Norway · 🌐 [papirpedagogen.no](https://papirpedagogen.no) · [app.samla.studio](https://app.samla.studio)
+- **Ukesmeny** – Our family's dinner plan. An LLM drafts the week from our own recipe book and house rules, then the app builds a shopping list sorted by store section and walks you through cooking. [Try the demo](https://mealplan-production-32a7e369.up.railway.app) (AI answers are pre-recorded).
+  *Python, FastAPI, SQLite, Claude, Docker, Railway.*
 
----
+**How I work**
 
-*Hei! Jeg er pedagogisk leder og bedriftsøkonom som bygger digitale verktøy – særlig for barnehagen. Ta gjerne kontakt.*
+I build with AI coding agents every day and treat their output like a colleague's pull request: tests, review, and I'm the one who answers when it breaks.
+
+**Interested in** helping people actually adopt AI and digital tools, especially in education and the public sector.
+
+Norsk · English · Polski  ·  Aurskog, Norway  ·  [LinkedIn](https://www.linkedin.com/in/jarek-urbanski/)
