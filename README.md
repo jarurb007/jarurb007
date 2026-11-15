@@ -12,7 +12,7 @@ In the evenings I build the tools I wish we had.
   *Astro, React, TypeScript, pnpm monorepo, 545 unit tests, Cloudflare Pages. [Case study](https://github.com/jarurb007/papirpedagogen-case-study); source available on request.*
 
 - **[Samla](https://app.samla.studio)** – Birthdays, dugnad, ski trips: one link where guests RSVP and claim what they'll bring, without creating an account. Live on Google Play since June 2026.
-  *Flutter, Riverpod, FastAPI, PostgreSQL on Supabase, transactional email, GDPR export and deletion.*
+  *Flutter, Riverpod, FastAPI, PostgreSQL on Supabase, transactional email, GDPR export and deletion. [Case study](https://github.com/jarurb007/samla-case-study).*
 
 - **Ukesmeny** – Our family's dinner plan. An LLM drafts the week from our own recipe book and house rules, then the app builds a shopping list sorted by store section and walks you through cooking. [Try the demo](https://mealplan-production-32a7e369.up.railway.app) (AI answers are pre-recorded).
   *Python, FastAPI, SQLite, Claude, Docker, Railway.*
