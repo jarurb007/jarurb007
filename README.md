@@ -7,14 +7,14 @@ I design and ship products end to end — from talking to users and sketching th
 **Projects**
 
 - **[Papirpedagogen.no](https://papirpedagogen.no)** — free planning tools for kindergarten staff (weekly plans, sleep and nappy lists, staffing-norm calculator). Privacy by design: no login, everything stays in the browser. *Astro, React, TypeScript, Vitest, Cloudflare Pages.*
-- **Samla** — a coordination app for birthdays, dugnads and get-togethers with AI-assisted wishes and gift ideas, published on Google Play. *Flutter, Python/FastAPI, PostgreSQL, Supabase, GDPR flows.*
+- **[Samla](https://app.samla.studio)** — a coordination app for birthdays, dugnads and get-togethers with AI-assisted wishes and gift ideas, live on Google Play and at [app.samla.studio](https://app.samla.studio). *Flutter, Python/FastAPI, PostgreSQL, Supabase, GDPR flows.*
 - **Ukesmeny** — an LLM-powered weekly dinner and shopping planner built for my own family. [Live demo](https://mealplan-production-32a7e369.up.railway.app) with pre-recorded AI responses. *Python, FastAPI, Claude, Docker, Railway.*
 
 **Interested in:** applied AI (LLM apps, RAG, agents, MCP), AI in education and the public sector, and turning messy real-world processes into simple tools.
 
 **Languages:** Norwegian · English · Polish
 
-📍 Aurskog, Norway · 🌐 [papirpedagogen.no](https://papirpedagogen.no)
+📍 Aurskog, Norway · 🌐 [papirpedagogen.no](https://papirpedagogen.no) · [app.samla.studio](https://app.samla.studio)
 
 ---
 
