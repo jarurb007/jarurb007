@@ -1,6 +1,6 @@
 ### Hei, I'm Jarek
 
-I've worked in Norwegian kindergartens since 2013, today as a pedagogical leader and the unit's IT coordinator: devices, accounts, first-line support and the digital tools colleagues use every day. That's where I learned how software is actually experienced by people who use it under time pressure.
+I've worked in the Norwegian education sector since 2013, leading a team and serving as IT coordinator: devices, accounts, first-line support and the digital tools colleagues use every day. That's where I learned how software is actually experienced by people who use it under time pressure.
 
 Before Norway I did a master's in corporate finance and ran budgets, purchasing and orders for a small company in Poland, where I saw how much time disappears when systems don't talk to each other.
 
